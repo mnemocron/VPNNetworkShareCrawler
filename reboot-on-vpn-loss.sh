@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sleep 20;       # make sure to wait for vpn connection after a reboot
 
 if [ -d "/mnt/share/folder_inside_share" ]; then
         # Control will enter here if $DIRECTORY exists.
