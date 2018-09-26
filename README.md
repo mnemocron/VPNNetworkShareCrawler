@@ -2,6 +2,8 @@
 
 ---
 
+[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
+
 This repository contains some scripts to connect a Raspberry Pi to a VPN server and then mount a network share.
 
 The cronjob periodically copies the contents inside the mounted share to an external USB.
